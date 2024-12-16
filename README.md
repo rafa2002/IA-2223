@@ -1,6 +1,6 @@
 # IA-2223
 
-Repositório destinado a guardar o trabalho realizado na cadeira de Inteligência Artificial no ano letivo 2022/2023
+This project aims to implement adaptive search algorithms for use in a game.
 
 ## Grupo
 | Número  | Nome                                               |
